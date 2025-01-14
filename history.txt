@@ -1,0 +1,16 @@
+  354  git status
+  355  git add .gitignore
+  356  git commit -m "update .gitignore"
+  357  gti log
+  358  git log
+  359  git push -u origin feature
+  360  git commit --amend -m "update .gitignore amend"
+  361  git branch
+  362  git status
+  363  git checkout main
+  364  git merge feature
+  365  git log
+  366  git push 
+  367  history
+  368  git add history.txt
+  369  history | tail-20 > history.txt
